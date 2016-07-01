@@ -3,6 +3,6 @@
 # RESULT
 ![](https://github.com/wennycooper/KalmanFilterExample/blob/master/kalman0.jpg)
 
-# REFERENCES
-* http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummies
-
+# REFERENCE
+* http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummie
+* https://www.youtube.com/watch?v=2-lu3GNbXM
