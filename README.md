@@ -1,4 +1,4 @@
-# KalmanFilterExample in matlab
+# KalmanFilterExample in Matlab
 
 # RESULT
 ![](https://github.com/wennycooper/KalmanFilterExample/blob/master/kalman0.jpg)
